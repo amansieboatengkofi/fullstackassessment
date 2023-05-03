@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="/Users/kofiamansie-boateng/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/3.0.6/95ac2c7aa28fcdef587b2c4f554016f8b9af624/spring-boot-3.0.6.jar" sourcepath="/Users/kofiamansie-boateng/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/3.0.6/d53375eb837b5e04125ad8f6ce317b9a5a1d1302/spring-boot-3.0.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="/Users/kofiamansie-boateng/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test/3.0.6/2d29691a65f09c09be90f1c1ea8813fa56a76e2b/spring-boot-test-3.0.6.jar" sourcepath="/Users/kofiamansie-boateng/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test/3.0.6/b129a3b15c761df5b8d35eb538addd7ebd50dbef/spring-boot-test-3.0.6-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/kofiamansie-boateng/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/3.0.6/8ccd83b2530c96595f92b4e07c1bb17560bfba8b/spring-boot-autoconfigure-3.0.6.jar" sourcepath="/Users/kofiamansie-boateng/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/3.0.6/51f2e780e999f2ca52f8f4ea8bc001ba464bd1e5/spring-boot-autoconfigure-3.0.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
